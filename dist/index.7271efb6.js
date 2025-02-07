@@ -2485,7 +2485,7 @@ process.umask = function() {
     return 0;
 };
 
-},{}],"7T53S":[function(require,module,exports,__globalThis) {
+},{}],"jVFGW":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -18643,6 +18643,13 @@ const navbar = ()=>{
                         lineNumber: 15,
                         columnNumber: 17
                     }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
+                        children: "Logout"
+                    }, void 0, false, {
+                        fileName: "src/components/Navbar.js",
+                        lineNumber: 16,
+                        columnNumber: 17
+                    }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
                         onClick: ()=>{
                             // btnName = "Dark";
@@ -18652,7 +18659,7 @@ const navbar = ()=>{
                         children: btnName
                     }, void 0, false, {
                         fileName: "src/components/Navbar.js",
-                        lineNumber: 16,
+                        lineNumber: 17,
                         columnNumber: 17
                     }, undefined)
                 ]
@@ -18998,6 +19005,6 @@ $RefreshReg$(_c, "Product");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}]},["aQL8O","7T53S","2kQhy"], "2kQhy", "parcelRequire94c2")
+},{"react/jsx-dev-runtime":"iTorj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}]},["aQL8O","jVFGW","2kQhy"], "2kQhy", "parcelRequire94c2")
 
 //# sourceMappingURL=index.7271efb6.js.map

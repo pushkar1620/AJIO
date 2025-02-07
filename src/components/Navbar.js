@@ -13,6 +13,7 @@ const navbar = () => {
                 <li>WOMEN</li>
                 <li>KIDS</li>
                 <li>CART</li>
+                <li>Logout</li>
                 <button onClick={()=>   {
                     // btnName = "Dark";
                     // console.log(btnName);

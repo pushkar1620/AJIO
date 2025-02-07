@@ -6,6 +6,7 @@ export const Product = ({product})=>{
             <h1>{title}</h1>
             <p>{rating.rate}ratings</p>
             <p>price:{price}</p>
+          
         </div>
     )
 }
